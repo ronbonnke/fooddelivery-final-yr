@@ -36,7 +36,7 @@ const LoginPopup = ({setShowLogin}) => {
             setToken(response.data.token);
             localStorage.setItem("token", response.data.token)
             setShowLogin(false);
-        }else{
+        }else {
             alert(response.data.message);
         }
    }
@@ -60,7 +60,7 @@ const LoginPopup = ({setShowLogin}) => {
                 <input type="checkbox" required />
                 <p>By continuing, I agree to the terms of use & privacy policy</p>
             </div>
-            {currentState==='Login'?
+            {currentState==='Login'? 
              <p>Create a new account? <span onClick={()=> setCurrentState('Sign Up')}>Click here</span></p>
              :<p>Already have an account? <span onClick={()=> setCurrentState('Login')}>Login here</span></p>}
             
