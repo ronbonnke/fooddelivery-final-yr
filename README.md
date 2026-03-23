@@ -41,7 +41,7 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
+git clone https://github.com/ronbonnke/mern-food-delivery-app.git
 cd mern-food-delivery-app
 ```
 
@@ -121,25 +121,25 @@ Use the admin panel to manage orders, menu items.
 
 ## 📸 Screenshots
 # 🏠 Home : 
-![1](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
+![1](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
 # 🔐 Login : 
-![2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
+![2](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
 # 🔐 Signup : 
-![3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f5dd216a-dc8d-4042-9a96-4884cdb17aef)
+![3](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/f5dd216a-dc8d-4042-9a96-4884cdb17aef)
 # 🍔 Menu :
-![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
+![Capture2](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
 # 🍱 Menu Food :
-![Capture3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
+![Capture3](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
 # ℹ️ App Download : 
-![Capture4](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
+![Capture4](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
 # 🍱 Menu Food :
-![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
+![Capture5](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
 # 🛒 Cart : 
-![Capture6](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1894f642-ea89-42de-ad74-de173c6c42aa)
+![Capture6](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/1894f642-ea89-42de-ad74-de173c6c42aa)
 # 📞 Contact :
-![Capture7](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1a94b8aa-aa4e-4991-9d45-f6548f793b47)
+![Capture7](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/1a94b8aa-aa4e-4991-9d45-f6548f793b47)
 # ❤️ Payment :
-![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
+![Capture8](https://github.com/ronbonnke/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
 
 ## 📜 API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
@@ -149,10 +149,10 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 👨‍💻 Contributors
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
+[ ronbonnke](https://github.com/ronbonnke)
  — Project Owner
 
-[prem2621](https://github.com/prem2621)
+[ronbonnke](https://github.com/ronbonnke)
  — Bug fixes, secure env handling, image display improvement
 
 ## 📫 Contact
